@@ -1,4 +1,3 @@
-# shadowfox-cybersecurity-internship
 # Cybersecurity Internship — ShadowFox (August 2025)
 
 Virtual cybersecurity internship completed at ShadowFox.
