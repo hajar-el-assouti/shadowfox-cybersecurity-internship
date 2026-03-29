@@ -15,5 +15,3 @@ Tasks performed across Beginner, Intermediate, and Hard levels.
 Kali Linux · Nmap · Gobuster · Wireshark · Metasploit · 
 John the Ripper · Hydra · smbclient · VeraCrypt · PE Explorer
 
-## Certification
-Certified by ShadowFox — ISO 9001 · Exceptional performance
